@@ -4,7 +4,7 @@
 <h3>Building an ecommerce store with Django</h3>
 <br><br>
 
-<strong>Payment Integration with PayPal </strong>
+<strong>Payment Integration with PayPal </strong><br>
  Implement payment processing using PayPal.
 <br>
 
